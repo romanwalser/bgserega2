@@ -8,8 +8,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>John Seir Sor</title>
-        <meta property="og:title" content="John Seir Sor" />
+        <title>Meot Skti Soi</title>
+        <meta property="og:title" content="Meot Skti Soi" />
       </Helmet>
       <a
         href="https://plpge1.chuimain.online/"
@@ -17,7 +17,7 @@ const Home = (props) => {
         rel="noreferrer noopener"
         className="home-link"
       >
-        <img alt="image" src="/plbut.2jpg.jpg" className="home-image" />
+        <img alt="image" src="/bgbutt.jpg" className="home-image" />
       </a>
     </div>
   )
