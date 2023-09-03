@@ -8,8 +8,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Meot Skti Soi</title>
-        <meta property="og:title" content="Meot Skti Soi" />
+        <title>Fast Green Loop</title>
+        <meta property="og:title" content="Fast Green Loop" />
       </Helmet>
       <a
         href="https://tapfeedrate.com/short/86420?stream_uuid=4a8afb43-406c-4d97-9b3c-305633667b80&trek=1"
